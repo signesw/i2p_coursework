@@ -1,8 +1,4 @@
-﻿Contents,,,,,,,,,
-,,,,,,,,,
-"Net annual household income by middle layer super output area (MSOA), England and Wales, financial year ending March 2018 (£)",,,,,,,,,
-,,,,,,,,,
-MSOA code,MSOA name,Local authority code,Local authority name,Region code,Region name,Net annual income (£),Upper confidence limit (£),Lower confidence limit (£),Confidence interval (£)
+﻿MSOA code,MSOA name,Local authority code,Local authority name,Region code,Region name,Net annual income (£),Upper confidence limit (£),Lower confidence limit (£),Confidence interval (£)
 E02004297,County Durham 001,E06000047,County Durham,E12000001,North East," 32,200 "," 37,900 "," 27,400 "," 10,500 "
 E02004290,County Durham 002,E06000047,County Durham,E12000001,North East," 33,000 "," 39,000 "," 28,000 "," 11,000 "
 E02004298,County Durham 003,E06000047,County Durham,E12000001,North East," 31,700 "," 37,200 "," 27,000 "," 10,200 "
